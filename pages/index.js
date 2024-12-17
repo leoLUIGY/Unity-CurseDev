@@ -1,6 +1,6 @@
 function Home()
 {
-    return <h1>aqui estou dizendo para não entender nada, apenas sentir</h1>
+    return <h1>Adquirindo novas habilidades com a Web</h1>
 }
 
 export default Home;
